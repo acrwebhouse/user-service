@@ -1,4 +1,5 @@
 USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
 NOTIFICATION_BASIC_LOCATION=https://matchrentdev.com/notification-basic-service
+EMPLOYEES_BASIC_LOCATION=https://matchrentdev.com/employee-basic-service
 SWAGGER_IP=35.234.42.100
 SERVER_PORT=4000
